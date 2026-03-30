@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ABL1JVL\\OneDrive - Bosch Group\\repositorio\\Aula_CSharp\\DESAFIOS\\SomaMedia\\SomaMedia.csproj": {}
+    "C:\\Users\\ABL1JVL\\OneDrive - Bosch Group\\repositorio\\Aula_CSharp\\DESAFIOS\\ListaDesafioCSharp\\SomaMedia\\SomaMedia.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ABL1JVL\\OneDrive - Bosch Group\\repositorio\\Aula_CSharp\\DESAFIOS\\SomaMedia\\SomaMedia.csproj": {
+    "C:\\Users\\ABL1JVL\\OneDrive - Bosch Group\\repositorio\\Aula_CSharp\\DESAFIOS\\ListaDesafioCSharp\\SomaMedia\\SomaMedia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ABL1JVL\\OneDrive - Bosch Group\\repositorio\\Aula_CSharp\\DESAFIOS\\SomaMedia\\SomaMedia.csproj",
+        "projectUniqueName": "C:\\Users\\ABL1JVL\\OneDrive - Bosch Group\\repositorio\\Aula_CSharp\\DESAFIOS\\ListaDesafioCSharp\\SomaMedia\\SomaMedia.csproj",
         "projectName": "SomaMedia",
-        "projectPath": "C:\\Users\\ABL1JVL\\OneDrive - Bosch Group\\repositorio\\Aula_CSharp\\DESAFIOS\\SomaMedia\\SomaMedia.csproj",
+        "projectPath": "C:\\Users\\ABL1JVL\\OneDrive - Bosch Group\\repositorio\\Aula_CSharp\\DESAFIOS\\ListaDesafioCSharp\\SomaMedia\\SomaMedia.csproj",
         "packagesPath": "C:\\Users\\ABL1JVL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ABL1JVL\\OneDrive - Bosch Group\\repositorio\\Aula_CSharp\\DESAFIOS\\SomaMedia\\obj\\",
+        "outputPath": "C:\\Users\\ABL1JVL\\OneDrive - Bosch Group\\repositorio\\Aula_CSharp\\DESAFIOS\\ListaDesafioCSharp\\SomaMedia\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ABL1JVL\\AppData\\Roaming\\NuGet\\NuGet.Config"

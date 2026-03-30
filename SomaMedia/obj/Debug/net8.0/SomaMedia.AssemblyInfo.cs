@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SomaMedia")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b987832ab8edc4b156bfbccdb48727ab218942f9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c3d25e1f6063c230efb54391ac74b611e32f0fa4")]
 [assembly: System.Reflection.AssemblyProductAttribute("SomaMedia")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SomaMedia")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
